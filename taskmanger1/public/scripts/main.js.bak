@@ -1,0 +1,3 @@
+var name = 'Amarjeet';
+
+document.write('Hello ' + name + '!');
